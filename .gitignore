@@ -1,0 +1,16 @@
+﻿/motyl/Debug/*.exe
+Debug/
+/motyl/*.sdf
+
+/motyl_1/*.sdf
+/motyl_1/*.opendb
+/motyl_1/Motyl/*.user
+/lab2/*.sdf
+/lab2/Pokój.VC.opendb
+/lab2/.vs/Pokój/v14/*.suo
+/lab2_v2/*.sdf
+*.sdf
+
+resources
+*/bin
+*/obj
